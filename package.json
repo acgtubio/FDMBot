@@ -1,0 +1,27 @@
+{
+  "name": "FDMBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acgtubio/FDMBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acgtubio/FDMBot/issues"
+  },
+  "homepage": "https://github.com/acgtubio/FDMBot#readme",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.t1627906063.6e0ea02",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  }
+}
